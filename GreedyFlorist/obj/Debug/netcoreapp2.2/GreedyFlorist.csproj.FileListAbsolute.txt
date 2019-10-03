@@ -1,0 +1,10 @@
+C:\Csharphomework\Week5\GreedyFlorist\bin\Debug\netcoreapp2.2\GreedyFlorist.deps.json
+C:\Csharphomework\Week5\GreedyFlorist\bin\Debug\netcoreapp2.2\GreedyFlorist.runtimeconfig.json
+C:\Csharphomework\Week5\GreedyFlorist\bin\Debug\netcoreapp2.2\GreedyFlorist.runtimeconfig.dev.json
+C:\Csharphomework\Week5\GreedyFlorist\bin\Debug\netcoreapp2.2\GreedyFlorist.dll
+C:\Csharphomework\Week5\GreedyFlorist\bin\Debug\netcoreapp2.2\GreedyFlorist.pdb
+C:\Csharphomework\Week5\GreedyFlorist\obj\Debug\netcoreapp2.2\GreedyFlorist.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\GreedyFlorist\obj\Debug\netcoreapp2.2\GreedyFlorist.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\GreedyFlorist\obj\Debug\netcoreapp2.2\GreedyFlorist.AssemblyInfo.cs
+C:\Csharphomework\Week5\GreedyFlorist\obj\Debug\netcoreapp2.2\GreedyFlorist.dll
+C:\Csharphomework\Week5\GreedyFlorist\obj\Debug\netcoreapp2.2\GreedyFlorist.pdb

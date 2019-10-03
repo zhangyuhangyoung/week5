@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\BiggerIsGreater\bin\Debug\netcoreapp2.2\BiggerIsGreater.deps.json
+C:\Csharphomework\Week5\BiggerIsGreater\bin\Debug\netcoreapp2.2\BiggerIsGreater.runtimeconfig.json
+C:\Csharphomework\Week5\BiggerIsGreater\bin\Debug\netcoreapp2.2\BiggerIsGreater.runtimeconfig.dev.json
+C:\Csharphomework\Week5\BiggerIsGreater\bin\Debug\netcoreapp2.2\BiggerIsGreater.dll
+C:\Csharphomework\Week5\BiggerIsGreater\bin\Debug\netcoreapp2.2\BiggerIsGreater.pdb
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.AssemblyInfo.cs
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.dll
+C:\Csharphomework\Week5\BiggerIsGreater\obj\Debug\netcoreapp2.2\BiggerIsGreater.pdb

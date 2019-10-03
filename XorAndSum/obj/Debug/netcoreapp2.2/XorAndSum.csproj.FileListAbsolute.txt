@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\XorAndSum\bin\Debug\netcoreapp2.2\XorAndSum.deps.json
+C:\Csharphomework\Week5\XorAndSum\bin\Debug\netcoreapp2.2\XorAndSum.runtimeconfig.json
+C:\Csharphomework\Week5\XorAndSum\bin\Debug\netcoreapp2.2\XorAndSum.runtimeconfig.dev.json
+C:\Csharphomework\Week5\XorAndSum\bin\Debug\netcoreapp2.2\XorAndSum.dll
+C:\Csharphomework\Week5\XorAndSum\bin\Debug\netcoreapp2.2\XorAndSum.pdb
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.AssemblyInfo.cs
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.dll
+C:\Csharphomework\Week5\XorAndSum\obj\Debug\netcoreapp2.2\XorAndSum.pdb

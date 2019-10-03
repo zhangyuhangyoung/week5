@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.AssemblyInfo.cs
+C:\Csharphomework\Week5\TheCoinChangeProblem\bin\Debug\netcoreapp2.2\TheCoinChangeProblem.deps.json
+C:\Csharphomework\Week5\TheCoinChangeProblem\bin\Debug\netcoreapp2.2\TheCoinChangeProblem.runtimeconfig.json
+C:\Csharphomework\Week5\TheCoinChangeProblem\bin\Debug\netcoreapp2.2\TheCoinChangeProblem.runtimeconfig.dev.json
+C:\Csharphomework\Week5\TheCoinChangeProblem\bin\Debug\netcoreapp2.2\TheCoinChangeProblem.dll
+C:\Csharphomework\Week5\TheCoinChangeProblem\bin\Debug\netcoreapp2.2\TheCoinChangeProblem.pdb
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.dll
+C:\Csharphomework\Week5\TheCoinChangeProblem\obj\Debug\netcoreapp2.2\TheCoinChangeProblem.pdb

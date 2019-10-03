@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.AssemblyInfo.cs
+C:\Csharphomework\Week5\TheMaximumSubarray\bin\Debug\netcoreapp2.2\TheMaximumSubarray.deps.json
+C:\Csharphomework\Week5\TheMaximumSubarray\bin\Debug\netcoreapp2.2\TheMaximumSubarray.runtimeconfig.json
+C:\Csharphomework\Week5\TheMaximumSubarray\bin\Debug\netcoreapp2.2\TheMaximumSubarray.runtimeconfig.dev.json
+C:\Csharphomework\Week5\TheMaximumSubarray\bin\Debug\netcoreapp2.2\TheMaximumSubarray.dll
+C:\Csharphomework\Week5\TheMaximumSubarray\bin\Debug\netcoreapp2.2\TheMaximumSubarray.pdb
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.dll
+C:\Csharphomework\Week5\TheMaximumSubarray\obj\Debug\netcoreapp2.2\TheMaximumSubarray.pdb

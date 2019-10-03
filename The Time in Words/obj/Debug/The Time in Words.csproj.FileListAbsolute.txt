@@ -1,0 +1,7 @@
+C:\Csharphomework\Week5\The Time in Words\bin\Debug\The Time in Words.exe.config
+C:\Csharphomework\Week5\The Time in Words\bin\Debug\The Time in Words.exe
+C:\Csharphomework\Week5\The Time in Words\bin\Debug\The Time in Words.pdb
+C:\Csharphomework\Week5\The Time in Words\obj\Debug\The Time in Words.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\The Time in Words\obj\Debug\The Time in Words.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\The Time in Words\obj\Debug\The Time in Words.exe
+C:\Csharphomework\Week5\The Time in Words\obj\Debug\The Time in Words.pdb

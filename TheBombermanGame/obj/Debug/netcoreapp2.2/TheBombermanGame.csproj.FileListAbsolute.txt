@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\TheBombermanGame\bin\Debug\netcoreapp2.2\TheBombermanGame.deps.json
+C:\Csharphomework\Week5\TheBombermanGame\bin\Debug\netcoreapp2.2\TheBombermanGame.runtimeconfig.json
+C:\Csharphomework\Week5\TheBombermanGame\bin\Debug\netcoreapp2.2\TheBombermanGame.runtimeconfig.dev.json
+C:\Csharphomework\Week5\TheBombermanGame\bin\Debug\netcoreapp2.2\TheBombermanGame.dll
+C:\Csharphomework\Week5\TheBombermanGame\bin\Debug\netcoreapp2.2\TheBombermanGame.pdb
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.AssemblyInfo.cs
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.dll
+C:\Csharphomework\Week5\TheBombermanGame\obj\Debug\netcoreapp2.2\TheBombermanGame.pdb

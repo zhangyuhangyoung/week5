@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\FlippingTtheMatrix\bin\Debug\netcoreapp2.2\FlippingTtheMatrix.deps.json
+C:\Csharphomework\Week5\FlippingTtheMatrix\bin\Debug\netcoreapp2.2\FlippingTtheMatrix.runtimeconfig.json
+C:\Csharphomework\Week5\FlippingTtheMatrix\bin\Debug\netcoreapp2.2\FlippingTtheMatrix.runtimeconfig.dev.json
+C:\Csharphomework\Week5\FlippingTtheMatrix\bin\Debug\netcoreapp2.2\FlippingTtheMatrix.dll
+C:\Csharphomework\Week5\FlippingTtheMatrix\bin\Debug\netcoreapp2.2\FlippingTtheMatrix.pdb
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.AssemblyInfo.cs
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.dll
+C:\Csharphomework\Week5\FlippingTtheMatrix\obj\Debug\netcoreapp2.2\FlippingTtheMatrix.pdb

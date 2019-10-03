@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\ZigZagSequence\bin\Debug\netcoreapp2.2\ZigZagSequence.deps.json
+C:\Csharphomework\Week5\ZigZagSequence\bin\Debug\netcoreapp2.2\ZigZagSequence.runtimeconfig.json
+C:\Csharphomework\Week5\ZigZagSequence\bin\Debug\netcoreapp2.2\ZigZagSequence.runtimeconfig.dev.json
+C:\Csharphomework\Week5\ZigZagSequence\bin\Debug\netcoreapp2.2\ZigZagSequence.dll
+C:\Csharphomework\Week5\ZigZagSequence\bin\Debug\netcoreapp2.2\ZigZagSequence.pdb
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.AssemblyInfo.cs
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.dll
+C:\Csharphomework\Week5\ZigZagSequence\obj\Debug\netcoreapp2.2\ZigZagSequence.pdb

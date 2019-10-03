@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\Recursive Digit Sum\bin\Debug\netcoreapp2.2\Recursive Digit Sum.deps.json
+C:\Csharphomework\Week5\Recursive Digit Sum\bin\Debug\netcoreapp2.2\Recursive Digit Sum.runtimeconfig.json
+C:\Csharphomework\Week5\Recursive Digit Sum\bin\Debug\netcoreapp2.2\Recursive Digit Sum.runtimeconfig.dev.json
+C:\Csharphomework\Week5\Recursive Digit Sum\bin\Debug\netcoreapp2.2\Recursive Digit Sum.dll
+C:\Csharphomework\Week5\Recursive Digit Sum\bin\Debug\netcoreapp2.2\Recursive Digit Sum.pdb
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.AssemblyInfo.cs
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.dll
+C:\Csharphomework\Week5\Recursive Digit Sum\obj\Debug\netcoreapp2.2\Recursive Digit Sum.pdb

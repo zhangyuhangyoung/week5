@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\CommonChild\bin\Debug\netcoreapp2.2\CommonChild.deps.json
+C:\Csharphomework\Week5\CommonChild\bin\Debug\netcoreapp2.2\CommonChild.runtimeconfig.json
+C:\Csharphomework\Week5\CommonChild\bin\Debug\netcoreapp2.2\CommonChild.runtimeconfig.dev.json
+C:\Csharphomework\Week5\CommonChild\bin\Debug\netcoreapp2.2\CommonChild.dll
+C:\Csharphomework\Week5\CommonChild\bin\Debug\netcoreapp2.2\CommonChild.pdb
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.AssemblyInfo.cs
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.dll
+C:\Csharphomework\Week5\CommonChild\obj\Debug\netcoreapp2.2\CommonChild.pdb

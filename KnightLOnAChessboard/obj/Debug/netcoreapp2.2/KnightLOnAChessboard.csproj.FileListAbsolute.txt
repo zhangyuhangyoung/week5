@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.AssemblyInfo.cs
+C:\Csharphomework\Week5\KnightLOnAChessboard\bin\Debug\netcoreapp2.2\KnightLOnAChessboard.deps.json
+C:\Csharphomework\Week5\KnightLOnAChessboard\bin\Debug\netcoreapp2.2\KnightLOnAChessboard.runtimeconfig.json
+C:\Csharphomework\Week5\KnightLOnAChessboard\bin\Debug\netcoreapp2.2\KnightLOnAChessboard.runtimeconfig.dev.json
+C:\Csharphomework\Week5\KnightLOnAChessboard\bin\Debug\netcoreapp2.2\KnightLOnAChessboard.dll
+C:\Csharphomework\Week5\KnightLOnAChessboard\bin\Debug\netcoreapp2.2\KnightLOnAChessboard.pdb
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.dll
+C:\Csharphomework\Week5\KnightLOnAChessboard\obj\Debug\netcoreapp2.2\KnightLOnAChessboard.pdb

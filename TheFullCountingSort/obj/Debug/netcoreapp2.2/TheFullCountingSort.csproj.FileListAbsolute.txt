@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.AssemblyInfo.cs
+C:\Csharphomework\Week5\TheFullCountingSort\bin\Debug\netcoreapp2.2\TheFullCountingSort.deps.json
+C:\Csharphomework\Week5\TheFullCountingSort\bin\Debug\netcoreapp2.2\TheFullCountingSort.runtimeconfig.json
+C:\Csharphomework\Week5\TheFullCountingSort\bin\Debug\netcoreapp2.2\TheFullCountingSort.runtimeconfig.dev.json
+C:\Csharphomework\Week5\TheFullCountingSort\bin\Debug\netcoreapp2.2\TheFullCountingSort.dll
+C:\Csharphomework\Week5\TheFullCountingSort\bin\Debug\netcoreapp2.2\TheFullCountingSort.pdb
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.dll
+C:\Csharphomework\Week5\TheFullCountingSort\obj\Debug\netcoreapp2.2\TheFullCountingSort.pdb

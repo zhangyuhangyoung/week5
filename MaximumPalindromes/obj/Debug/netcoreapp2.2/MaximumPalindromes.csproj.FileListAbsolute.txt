@@ -1,0 +1,11 @@
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.csprojAssemblyReference.cache
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.csproj.CoreCompileInputs.cache
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.AssemblyInfoInputs.cache
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.AssemblyInfo.cs
+C:\Csharphomework\Week5\MaximumPalindromes\bin\Debug\netcoreapp2.2\MaximumPalindromes.deps.json
+C:\Csharphomework\Week5\MaximumPalindromes\bin\Debug\netcoreapp2.2\MaximumPalindromes.runtimeconfig.json
+C:\Csharphomework\Week5\MaximumPalindromes\bin\Debug\netcoreapp2.2\MaximumPalindromes.runtimeconfig.dev.json
+C:\Csharphomework\Week5\MaximumPalindromes\bin\Debug\netcoreapp2.2\MaximumPalindromes.dll
+C:\Csharphomework\Week5\MaximumPalindromes\bin\Debug\netcoreapp2.2\MaximumPalindromes.pdb
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.dll
+C:\Csharphomework\Week5\MaximumPalindromes\obj\Debug\netcoreapp2.2\MaximumPalindromes.pdb
